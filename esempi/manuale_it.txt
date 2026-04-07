@@ -1,0 +1,1 @@
+Per resettare la password di dominio, gli utenti devono accedere al portale Self-Service all'indirizzo https://reset.azienda.it. Se l'account è bloccato dopo 5 tentativi falliti, è necessario contattare l'Help Desk al numero interno 4004.
